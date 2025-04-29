@@ -1,9 +1,5 @@
-                                          
-                                                         Developed by : RAJARAMAN V
-                                                         Register number : 212223110038
-                                                    
 #  Mean and variance of a discrete  distribution
-
+# Date:29/04/2025
 
 # Aim : 
 
@@ -53,10 +49,9 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
-Developed by : RAJARAMAN V
-Register number : 212223110038
-```
-```
+Name:POOJA.P
+Reg no:212224100041
+
 import numpy as np
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
@@ -79,10 +74,13 @@ SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%SD)
+
 ```
 
+
 # Output : 
-![image](https://github.com/Rajaraman77/Mean-and-Variance/assets/150319383/1c5aa778-30b2-46ef-b94a-0db389041ce3)
+
+![Screenshot 2025-04-29 134537](https://github.com/user-attachments/assets/a1bd4088-0612-4d3f-bd30-1b924f3ab3f4)
 
 
 # Results :
